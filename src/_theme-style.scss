@@ -1,0 +1,35 @@
+.App-header {
+    background: rgba(255, 255, 255, .25);
+}
+
+a.navbar-brand:link,
+a.navbar-brand:visited {
+    font-weight: bold;
+    font-size: 24px;
+    color: green;
+}
+
+main {
+    min-height: 85vh;
+}
+
+/* Background Images */
+.App-background-home {
+    background: url('./static/images/Cosmetics-1.jpg') top center no-repeat;
+}
+
+.App-background-leistungen {
+    background: url('./static/images/Cosmetics-2.jpg') top center no-repeat;
+}
+
+.App-background-preise {
+    background: url('./static/images/Cosmetics-3.jpg') top center no-repeat;
+}
+
+.App-background-about {
+    background: url('./static/images/Julia.jpg') top center no-repeat;
+}
+
+.App-background-kontakt {
+    background: url('./static/images/Contact.jpg') top center no-repeat;
+}
